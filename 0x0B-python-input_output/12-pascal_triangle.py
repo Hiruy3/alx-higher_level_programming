@@ -23,4 +23,4 @@ class Student:
                 new_dict[a] = self.__dict__[a]
             except:
                 pass
-        return 
+        return new_dict 
