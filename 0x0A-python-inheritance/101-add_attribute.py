@@ -13,7 +13,7 @@ def add_attribute(obj, name, value):
     else:
         setattr(obj, name, value)
 
-    © 2021 GitHub, Inc.
+    © 2022  GitHub, Inc.
     Terms
     Privacy
     Security
